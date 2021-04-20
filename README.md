@@ -1,4 +1,4 @@
 # Shinyapp
-This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+This peer assessed assignment has two parts. First, I created a Shiny application and deploy it on Rstudio's servers. The app is a BMI calculator and a calorie counter according to the needs of the patient (lose, maintein of gain weight). Second, I used Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about my application.
 
 https://cbarco2320.shinyapps.io/Calories/
